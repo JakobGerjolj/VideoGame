@@ -1,0 +1,16 @@
+﻿  fireGroup.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GroupOfGroupFires.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  rand.cpp
+  rect.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  staroselec.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  text.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\text.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  window.cpp
+C:\WORK STUFF\GerjoljJakobResevanjeGozdaIgricaPrva\ResevanjeGozdaIgricaFinal\ResevanjeGozdaIgrica\window.h(5,9): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
